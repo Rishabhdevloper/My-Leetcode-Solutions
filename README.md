@@ -29,4 +29,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0344-reverse-string) |
+# Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0067-add-binary) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0067-add-binary) |
+# Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0067-add-binary) |
