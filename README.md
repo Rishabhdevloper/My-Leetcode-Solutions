@@ -22,3 +22,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+# Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0344-reverse-string) |
+# String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0344-reverse-string) |
