@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 # Divide and Conquer
 |  |
@@ -52,3 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
