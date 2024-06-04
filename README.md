@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0067-add-binary](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 # Math
 |  |
 | ------- |
@@ -43,3 +44,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0067-add-binary) |
+# Hash Table
+|  |
+| ------- |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
+# Counting
+|  |
+| ------- |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
