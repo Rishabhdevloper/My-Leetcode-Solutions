@@ -57,3 +57,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+# Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+# Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+# Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0547-number-of-provinces) |
