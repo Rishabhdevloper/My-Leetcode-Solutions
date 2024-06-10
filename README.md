@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0733-flood-fill](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1036-rotting-oranges](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0547-number-of-provinces](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 # Union Find
 |  |
 | ------- |
@@ -82,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 # Prefix Sum
 |  |
 | ------- |
