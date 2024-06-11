@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1036-rotting-oranges](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1036-rotting-oranges) |
+| [1217-relative-sort-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1217-relative-sort-array) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1217-relative-sort-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1217-relative-sort-array) |
 # Heap (Priority Queue)
 |  |
 | ------- |
@@ -54,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1217-relative-sort-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1217-relative-sort-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 # Counting
 |  |
@@ -92,3 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
+# Counting Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1217-relative-sort-array) |
