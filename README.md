@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1217-relative-sort-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1217-relative-sort-array) |
 # Heap (Priority Queue)
@@ -32,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0344-reverse-string) |
 # String
 |  |
