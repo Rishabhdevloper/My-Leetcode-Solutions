@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0075-sort-colors](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -113,3 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0853-most-profit-assigning-work](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0853-most-profit-assigning-work) |
+# Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0039-combination-sum) |
