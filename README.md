@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0733-flood-fill) |
+| [0853-most-profit-assigning-work](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1036-rotting-oranges](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1217-relative-sort-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1217-relative-sort-array) |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0853-most-profit-assigning-work](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [1217-relative-sort-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1217-relative-sort-array) |
 # Heap (Priority Queue)
 |  |
@@ -36,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0853-most-profit-assigning-work](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0853-most-profit-assigning-work) |
 # String
 |  |
 | ------- |
@@ -102,3 +105,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1217-relative-sort-array) |
+# Binary Search
+|  |
+| ------- |
+| [0853-most-profit-assigning-work](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0853-most-profit-assigning-work) |
+# Greedy
+|  |
+| ------- |
+| [0853-most-profit-assigning-work](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0853-most-profit-assigning-work) |
