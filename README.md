@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0131-palindrome-partitioning](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 # Math
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 # Depth-First Search
 |  |
 | ------- |
@@ -128,3 +130,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
