@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0046-permutations) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Hash Table
 |  |
@@ -145,4 +146,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
