@@ -177,4 +177,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
