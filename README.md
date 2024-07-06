@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [2645-pass-the-pillow](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2645-pass-the-pillow) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -193,4 +194,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+## Simulation
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
