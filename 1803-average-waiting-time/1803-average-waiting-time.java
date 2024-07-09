@@ -3,23 +3,22 @@ class Solution {
         int finishingtime=customers[0][1]+customers[0][0];
         int n=customers.length;
         int m=customers[0].length;
-        ArrayList<Integer>list=new ArrayList<>();
-        list.add(customers[0][1]);
+        
+        double sum=customers[0][1];
+        double count=1;
         for(int i=1;i<n;i++){
             if(customers[i][0]>finishingtime){
                 finishingtime=customers[i][0]+customers[i][1];
-                list.add(finishingtime-customers[i][0]);
+                sum+=(finishingtime-customers[i][0]);
+                count++;
             }
             else{
             finishingtime+=customers[i][1] ;  
-            list.add(finishingtime-customers[i][0]);
+            sum+=(finishingtime-customers[i][0]);
+            count++;
         }
         }
-        double sum=0;
-        for(int i=0;i<list.size();i++){
-            sum+=list.get(i);
-        }
-        double ans=sum/list.size();
+        double ans=sum/count;
         return ans;
 
 
