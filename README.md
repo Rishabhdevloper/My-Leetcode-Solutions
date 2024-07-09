@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 ## Matrix
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 ## Union Find
 |  |
@@ -178,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 ## String
 |  |
@@ -210,4 +213,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
