@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0006-zigzag-conversion) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
 ## Math
 |  |
@@ -230,5 +231,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
