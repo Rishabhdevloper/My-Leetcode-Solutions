@@ -8,13 +8,13 @@ class MyQueue {
     
     public void push(int x) {
         while(!s1.isEmpty()){
-            s2.add(s1.peek());
-            s1.pop();
+            s2.add(s1.pop());
+            
         }
         s2.add(x);
         while(!s2.isEmpty()){
-            s1.add(s2.peek());
-            s2.pop();
+            s1.add(s2.pop());
+            
         }
         
     }
