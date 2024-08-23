@@ -6,7 +6,6 @@ class Solution {
         int nse[]=new int[n];
         int pse[]=new int[n];
         Stack<Integer>st=new Stack<>();
-        Stack<Integer>gt=new Stack<>();
         //nse banaya
         for(int i=n-1;i>=0;i--){
             while(!st.isEmpty()&&heights[st.peek()]>=heights[i]){
@@ -20,18 +19,18 @@ class Solution {
             }
             st.push(i);
         }
-        //pse banaya..
+        while(!st.isEmpty())st.pop();
         for(int i=0;i<n;i++){
-            while(!gt.isEmpty()&&heights[gt.peek()]>heights[i]){
-                gt.pop();
+            while(!st.isEmpty()&&heights[st.peek()]>heights[i]){
+                st.pop();
             }
-            if(gt.isEmpty()){
+            if(st.isEmpty()){
                 pse[i]=-1;
             }
             else{
-               pse[i]=gt.peek();
+               pse[i]=st.peek();
             }
-            gt.push(i);
+            st.push(i);
         }
         for(int i=0;i<n;i++){
             maxii=Math.max(maxii,heights[i]*(nse[i]-pse[i]-1));
