@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0046-permutations) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0503-next-greater-element-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0735-asteroid-collision) |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [1036-rotting-oranges](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 ## Depth-First Search
@@ -213,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0943-sum-of-subarray-minimums](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 ## Memoization
 |  |
@@ -245,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
@@ -275,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
