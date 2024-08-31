@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [0967-minimum-falling-path-sum](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1720-crawler-log-folder](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1803-average-waiting-time) |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0130-surrounded-regions) |
+| [0967-minimum-falling-path-sum](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 ## Depth-First Search
 |  |
@@ -228,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0943-sum-of-subarray-minimums](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [0967-minimum-falling-path-sum](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 ## Memoization
 |  |
 | ------- |
