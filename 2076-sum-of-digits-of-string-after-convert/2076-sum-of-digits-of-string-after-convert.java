@@ -1,20 +1,25 @@
 class Solution {
     public int getLucky(String s, int k) {
-        // Convert each character in the string to its corresponding numeric value
+        // Step 1: Convert the string to the corresponding number
         StringBuilder number = new StringBuilder();
         for (char x : s.toCharArray()) {
             number.append(x - 'a' + 1);
         }
-        
-        // Perform the transformation `k` times
+
+        // Step 2: Perform k iterations of summing digits
+        String numStr = number.toString();
+        int sum=0;
         while (k > 0) {
-            int temp = 0;
-            for (char x : number.toString().toCharArray()) {
-                temp += x - '0';  // Sum the digits of the current number
+             sum = 0;
+            // Sum the digits of the number represented as a String
+            for (char c : numStr.toCharArray()) {
+                sum += c - '0'; // Convert character to its integer value
             }
-            number = new StringBuilder(String.valueOf(temp));  // Convert the sum back to a string
+            numStr = Integer.toString(sum); // Convert sum back to String
             k--;
         }
-        return Integer.parseInt(number.toString());  // Return the final result as an integer
+
+        // The result is now a single digit number
+        return sum;
     }
 }
