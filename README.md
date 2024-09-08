@@ -313,4 +313,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+## Linked List
+|  |
+| ------- |
+| [0725-split-linked-list-in-parts](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0725-split-linked-list-in-parts) |
 <!---LeetCode Topics End-->
