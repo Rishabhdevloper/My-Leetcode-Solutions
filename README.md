@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0402-remove-k-digits](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
