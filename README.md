@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0046-permutations) |
+| [0056-merge-intervals](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -379,5 +380,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
