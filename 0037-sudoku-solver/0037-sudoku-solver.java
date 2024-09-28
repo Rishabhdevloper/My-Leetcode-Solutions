@@ -3,7 +3,15 @@ class Solution {
         for(int i=0;i<9;i++){
             if(board[a][i]==c)return false;
             if(board[i][b]==c)return false;
-            if(board[3*(a/3)+(i/3)][3*(b/3)+i%3]==c)return false;
+             int startRow = 3 * (a / 3);
+             int startCol = 3 * (b / 3);
+        for (int k = startRow; k < startRow + 3; k++) {
+            for (int l = startCol; l < startCol + 3; l++) {
+                // Skip checking the same cell in the subgrid
+                if (( board[k][l]==c)) return false;
+            }
+        }
+
         }
         return true;
     }
