@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -361,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 ## Linked List
 |  |
 | ------- |
@@ -384,5 +386,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
