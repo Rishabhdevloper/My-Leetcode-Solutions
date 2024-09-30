@@ -13,7 +13,7 @@ class Solution {
                 set.clear();
             }
             else{
-                 maxi=Math.max(maxi,j-i+1);
+                maxi=Math.max(maxi,j-i+1);
                 set.add(s.charAt(j));
                 j++;
             }
