@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0967-minimum-falling-path-sum) |
+| [1002-maximum-width-ramp](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1002-maximum-width-ramp) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1256-rank-transform-of-an-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
@@ -360,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1002-maximum-width-ramp) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -398,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1002-maximum-width-ramp](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1002-maximum-width-ramp) |
 | [2227-sum-of-subarray-ranges](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Two Pointers
 |  |
