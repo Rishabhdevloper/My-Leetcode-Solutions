@@ -7,7 +7,7 @@ class Solution {
        }
         long score=0;
         while(k>0){
-            double ans=pq.peek();
+          double ans=pq.peek();
           score+=pq.peek();
           pq.remove();
           pq.add((int)Math.ceil((double)ans/3.0));
