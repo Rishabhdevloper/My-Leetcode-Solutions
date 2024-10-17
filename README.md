@@ -292,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0670-maximum-swap](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0670-maximum-swap) |
 | [2032-largest-odd-number-in-string](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2645-pass-the-pillow](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2645-pass-the-pillow) |
 | [3462-vowels-game-in-a-string](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
@@ -386,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0670-maximum-swap](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0670-maximum-swap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
