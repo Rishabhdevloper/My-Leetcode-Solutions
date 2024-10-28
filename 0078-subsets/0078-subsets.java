@@ -1,23 +1,17 @@
 class Solution {
-    public static void combination(int indx,int nums[],List<List<Integer>>ans, List<Integer>ds){
-        if(indx>=nums.length){
-            ans.add(new ArrayList<>(ds));
-            return;
-        }
-        ds.add(nums[indx]);//take
-        combination(indx+1,nums,ans,ds);
-        ds.remove(ds.size()-1);
-        combination(indx+1,nums,ans,ds);//not take
-    }
-
-
-
-
-
     public List<List<Integer>> subsets(int[] nums) {
-       List<List<Integer>>ans=new ArrayList<>();
-       List<Integer>ds=new ArrayList<>();
-       combination(0,nums,ans,ds);
+        int n=nums.length;
+        int subsets=1<<n;
+        List<List<Integer>>ans=new ArrayList<>();
+        for(int i=0;i<subsets;i++){
+            ArrayList<Integer>list=new ArrayList<>();
+             for(int j=0;j<n;j++){
+                if ((i & (1 << j)) != 0){
+                    list.add(nums[j]);
+                }
+             }
+             ans.add(list);
+        }
         return ans;
     }
 }
