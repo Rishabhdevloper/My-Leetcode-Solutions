@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1720-crawler-log-folder](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1803-average-waiting-time](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -350,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1250-longest-common-subsequence](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Memoization
@@ -372,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 ## Prefix Sum
@@ -419,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1304-longest-happy-string) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
