@@ -19,6 +19,7 @@ class Solution {
                    break;
                 }
             }
+            if(!flag)break;
             if(flag){
                 jj.append(ch);
             }
