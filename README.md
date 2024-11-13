@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2227-sum-of-subarray-ranges](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1034-subarrays-with-k-different-integers](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1256-rank-transform-of-an-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -326,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0670-maximum-swap](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0670-maximum-swap) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2032-largest-odd-number-in-string](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2645-pass-the-pillow](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2645-pass-the-pillow) |
 | [3462-vowels-game-in-a-string](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -492,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0229-majority-element-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sorting
 |  |
