@@ -3,7 +3,7 @@ class Solution {
     int count = 0;
     for (int quantity : quantities) {
         count += (quantity + mid - 1) / mid; // this rounds up without needing Math.ceil
-        if(count<0)return false;
+       
     }
     return count <= n;
 }
