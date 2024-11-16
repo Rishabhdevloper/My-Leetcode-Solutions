@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2227-sum-of-subarray-ranges](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1940-maximum-xor-for-each-query](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Backtracking
 |  |
