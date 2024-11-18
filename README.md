@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1635-number-of-good-pairs](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1720-crawler-log-folder](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
+| [1755-defuse-the-bomb](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1803-average-waiting-time](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1803-average-waiting-time) |
 | [1839-decode-xored-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1839-decode-xored-array) |
@@ -541,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1755-defuse-the-bomb](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1755-defuse-the-bomb) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Heap (Priority Queue)
