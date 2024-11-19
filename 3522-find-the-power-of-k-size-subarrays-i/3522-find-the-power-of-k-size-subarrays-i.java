@@ -1,36 +1,37 @@
 class Solution {
     public int[] resultsArray(int[] nums, int k) {
-        ArrayList<Integer> list = new ArrayList<>();
-        int i = 0;
-        int j = i + 1;
-        int n = nums.length;
-        if(nums.length==1||k==1)return nums;
-        
-       boolean flag=true;
-        while (j < n) {
-             if ((j - i + 1) == k) {
-                if (Math.abs(nums[j]-nums[j - 1])==1&&nums[j]>nums[j-1]&&flag==true) {
-                    list.add(nums[j]);
-                }
-                 else {
-                    list.add(-1);
-                }
-                i++;
-                j = i + 1; 
-                flag=true;// Reset j to maintain window size
-            } 
-            else {
-                if(nums[j]-nums[j - 1]!=1){
-                    flag=false;
-                }
-                j++;
-            }
+        int n=nums.length;
+        int answer[]=new int[n-k+1];
+        Arrays.fill(answer,-1);
+        int count=1;
+       for(int i=1;i<k;i++){
+        if(nums[i]>nums[i-1]&&nums[i]-nums[i-1]==1){
+            count++;
         }
-
-        int[] arr = new int[list.size()];
-        for (int m = 0; m < list.size(); m++) {
-            arr[m] = list.get(m);
+        else {
+            count=1;
         }
-        return arr;
+       }
+       if(count==k){
+        answer[0]=nums[k-1];
+       }
+       int i=1;
+       int j=k;
+       while(j<n){
+       if(nums[j-1]+1==nums[j]){
+        count++;
+       }
+       else{
+        count=1;
+       }
+       if(count>=k){
+        answer[i]=nums[j];
+       }
+       i++;
+       j++;
+       
+      
     }
+     return answer;
+}
 }
