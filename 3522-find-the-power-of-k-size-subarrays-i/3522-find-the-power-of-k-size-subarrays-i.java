@@ -20,7 +20,7 @@ class Solution {
                 flag=true;// Reset j to maintain window size
             } 
             else {
-                if(Math.abs(nums[j]-nums[j - 1])!=1||(nums[j]-nums[j - 1]==-1)){
+                if(nums[j]-nums[j - 1]!=1){
                     flag=false;
                 }
                 j++;
