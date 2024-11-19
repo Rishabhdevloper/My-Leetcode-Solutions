@@ -207,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-longest-square-streak-in-an-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2792-neighboring-bitwise-xor](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2792-neighboring-bitwise-xor](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Backtracking
