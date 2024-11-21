@@ -201,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2227-sum-of-subarray-ranges](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Depth-First Search
 |  |
@@ -410,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2645-pass-the-pillow](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2645-pass-the-pillow) |
 | [3533-snake-in-matrix](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3533-snake-in-matrix) |
 ## Binary Search
