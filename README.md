@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1803-average-waiting-time](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1803-average-waiting-time) |
 | [1839-decode-xored-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1839-decode-xored-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
+| [1983-maximum-population-year](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1983-maximum-population-year) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -437,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1940-maximum-xor-for-each-query](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
+| [1983-maximum-population-year](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1983-maximum-population-year) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Topological Sort
 |  |
@@ -540,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1635-number-of-good-pairs](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
+| [1983-maximum-population-year](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1983-maximum-population-year) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
