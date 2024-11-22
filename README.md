@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1034-subarrays-with-k-different-integers](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1184-car-pooling](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1184-car-pooling) |
 | [1256-rank-transform-of-an-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
@@ -413,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [1184-car-pooling](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1184-car-pooling) |
 | [1803-average-waiting-time](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -436,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [1184-car-pooling](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1184-car-pooling) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1940-maximum-xor-for-each-query](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1983-maximum-population-year](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1983-maximum-population-year) |
@@ -556,6 +559,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [1184-car-pooling](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1184-car-pooling) |
 | [1256-rank-transform-of-an-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -577,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1184-car-pooling](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1184-car-pooling) |
 | [1304-longest-happy-string](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1304-longest-happy-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Enumeration
