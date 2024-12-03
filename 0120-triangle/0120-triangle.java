@@ -17,9 +17,7 @@ class Solution {
         int n=triangle.size();
         int arr[][]=new int[n][n];
         int dp[][]=new int[n][n];
-        for(int rows[]:arr){
-            Arrays.fill(rows,-1);
-        }
+       
         for(int rows[]:dp){
             Arrays.fill(rows,-1);
         }
