@@ -361,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2580-circular-sentence](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -456,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1940-maximum-xor-for-each-query](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1983-maximum-population-year](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1983-maximum-population-year) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2714-left-and-right-sum-differences) |
 ## Topological Sort
