@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -452,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1184-car-pooling](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1184-car-pooling) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1940-maximum-xor-for-each-query](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
