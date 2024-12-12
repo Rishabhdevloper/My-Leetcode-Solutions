@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2714-left-and-right-sum-differences](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2714-left-and-right-sum-differences) |
 | [2792-neighboring-bitwise-xor](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
@@ -450,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2645-pass-the-pillow](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2645-pass-the-pillow) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3533-snake-in-matrix](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3533-snake-in-matrix) |
 ## Binary Search
 |  |
@@ -638,6 +640,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1304-longest-happy-string](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1304-longest-happy-string) |
 | [2164-two-best-non-overlapping-events](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Enumeration
 |  |
 | ------- |
