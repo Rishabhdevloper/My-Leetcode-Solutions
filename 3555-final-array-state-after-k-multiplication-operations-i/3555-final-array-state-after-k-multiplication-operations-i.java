@@ -1,18 +1,20 @@
 class Solution {
     public int[] getFinalState(int[] nums, int k, int multiplier) {
         int n=nums.length;
-        while(k>0){
-            int mini=Integer.MAX_VALUE;
-            int ans=-1;
-            for(int i=0;i<n;i++){
-                if(mini>nums[i]){
-                    mini=Math.min(mini,nums[i]);
-                    ans=i;
-                }
-            }
-            nums[ans]=nums[ans]*multiplier;
-            k--;
+        PriorityQueue<int[]> pq=new  PriorityQueue<>((a,b)->a[0]==b[0]?a[1]-b[1]:a[0]-b[0]);
+        for(int i=0;i<n;i++){
+           pq.add(new int[]{nums[i],i}); 
         }
+        while(k>0){
+            int arr[]=pq.poll();
+            int val=arr[0];
+            int indx=arr[1];
+            nums[indx]=nums[indx]*multiplier;
+            pq.add(new int[]{nums[indx],indx});
+            k--;
+
+        }
+
         return nums;
     }
 }
