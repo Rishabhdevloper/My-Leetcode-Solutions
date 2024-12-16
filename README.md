@@ -236,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3533-snake-in-matrix](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3533-snake-in-matrix) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3582-find-indices-of-stable-mountains) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Hash Table
@@ -406,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2645-pass-the-pillow](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2645-pass-the-pillow) |
 | [3462-vowels-game-in-a-string](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -463,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3533-snake-in-matrix](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3533-snake-in-matrix) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -659,6 +662,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2868-continuous-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Enumeration
 |  |
 | ------- |
