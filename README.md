@@ -305,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0322-coin-change) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0801-is-graph-bipartite](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1036-rotting-oranges) |
@@ -336,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0801-is-graph-bipartite](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -716,5 +718,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
+## Binary Tree
+|  |
+| ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 <!---LeetCode Topics End-->
