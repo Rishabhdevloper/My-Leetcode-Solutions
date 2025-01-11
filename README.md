@@ -261,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1034-subarrays-with-k-different-integers](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1502-construct-k-palindrome-strings](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1635-number-of-good-pairs](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -386,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1304-longest-happy-string](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1304-longest-happy-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1502-construct-k-palindrome-strings](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -572,6 +574,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1304-longest-happy-string) |
+| [1502-construct-k-palindrome-strings](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
@@ -643,6 +646,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0229-majority-element-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1502-construct-k-palindrome-strings](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1635-number-of-good-pairs](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1983-maximum-population-year](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1983-maximum-population-year) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
