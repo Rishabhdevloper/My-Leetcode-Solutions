@@ -251,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3582-find-indices-of-stable-mountains) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3712-minimum-cost-to-make-arrays-identical](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 ## Hash Table
 |  |
 | ------- |
@@ -595,6 +596,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3195-separate-black-and-white-balls](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3195-separate-black-and-white-balls) |
+| [3712-minimum-cost-to-make-arrays-identical](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 ## Design
 |  |
 | ------- |
@@ -689,6 +691,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2699-count-the-number-of-fair-pairs](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3712-minimum-cost-to-make-arrays-identical](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 ## Sliding Window
 |  |
 | ------- |
