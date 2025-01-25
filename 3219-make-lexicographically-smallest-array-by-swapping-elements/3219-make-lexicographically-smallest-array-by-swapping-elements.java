@@ -6,10 +6,10 @@ class Solution {
 
         int groupNum = 0;
         Map<Integer, Integer> numToGroup = new HashMap<>();
-        Map<Integer, LinkedList<Integer>> groupToList = new HashMap<>();
+        Map<Integer, ArrayList<Integer>> groupToList = new HashMap<>();
 
         numToGroup.put(vec[0], groupNum);
-        groupToList.putIfAbsent(groupNum, new LinkedList<>());
+        groupToList.putIfAbsent(groupNum, new ArrayList<>());
         groupToList.get(groupNum).add(vec[0]);
 
         for (int i = 1; i < n; i++) {
@@ -17,7 +17,7 @@ class Solution {
                 groupNum++;
             }
             numToGroup.put(vec[i], groupNum);
-            groupToList.putIfAbsent(groupNum, new LinkedList<>());
+            groupToList.putIfAbsent(groupNum, new ArrayList<>());
             groupToList.get(groupNum).add(vec[i]);
         }
 
@@ -25,7 +25,7 @@ class Solution {
         for (int i = 0; i < n; i++) {
             int num = nums[i];
             int group = numToGroup.get(num);
-            result[i] = groupToList.get(group).pollFirst(); // Use and remove the smallest element
+            result[i] = groupToList.get(group).remove(0); // Use and remove the smallest element
         }
 
         return result;
