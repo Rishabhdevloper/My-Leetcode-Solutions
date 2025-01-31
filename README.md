@@ -393,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [0886-score-of-parentheses](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0886-score-of-parentheses) |
 | [0952-word-subsets](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
@@ -567,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0886-score-of-parentheses](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0886-score-of-parentheses) |
 | [0943-sum-of-subarray-minimums](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1002-maximum-width-ramp) |
