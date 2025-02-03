@@ -6,7 +6,7 @@ class Solution {
         HashSet<Character>set=new HashSet<>();
         if(n==0)return 0;
         int maxi=1;
-        while(i<=j&&i<n&&j<n){
+        while(j<n){
             if(set.contains(s.charAt(j))){
                 i++;
                 j=i;
