@@ -196,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1184-car-pooling](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1184-car-pooling) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1256-rank-transform-of-an-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1364-tuple-with-same-product](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1034-subarrays-with-k-different-integers](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1364-tuple-with-same-product](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1635-number-of-good-pairs](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
@@ -676,6 +678,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0229-majority-element-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1364-tuple-with-same-product](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1635-number-of-good-pairs](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
