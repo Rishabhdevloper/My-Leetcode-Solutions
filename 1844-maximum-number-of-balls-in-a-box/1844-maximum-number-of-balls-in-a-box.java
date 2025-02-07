@@ -1,7 +1,7 @@
 class Solution {
     public int countBalls(int lowLimit, int highLimit) {
     int maxi=Integer.MIN_VALUE;
-    int arr[]=new int[9999];
+    int arr[]=new int[99];
     for(int i=lowLimit;i<=highLimit;i++){
         int n=i;
         int sum=0;
