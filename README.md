@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2292-counting-words-with-a-given-prefix](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
+| [2448-count-number-of-bad-pairs](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -286,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2448-count-number-of-bad-pairs](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
@@ -461,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2448-count-number-of-bad-pairs](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2645-pass-the-pillow](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2645-pass-the-pillow) |
 | [3462-vowels-game-in-a-string](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
@@ -693,6 +696,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1983-maximum-population-year](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1983-maximum-population-year) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2448-count-number-of-bad-pairs](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
