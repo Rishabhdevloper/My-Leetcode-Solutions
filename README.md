@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0876-hand-of-straights](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0898-transpose-matrix) |
@@ -275,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0229-majority-element-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0876-hand-of-straights](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [0952-word-subsets](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0952-word-subsets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -622,6 +624,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0670-maximum-swap](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0670-maximum-swap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0876-hand-of-straights](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1304-longest-happy-string) |
@@ -723,6 +726,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0506-relative-ranks](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0876-hand-of-straights](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [1184-car-pooling](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1184-car-pooling) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1256-rank-transform-of-an-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
