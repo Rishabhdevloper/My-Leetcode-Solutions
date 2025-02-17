@@ -282,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-word-subsets](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0952-word-subsets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1160-letter-tile-possibilities](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1256-rank-transform-of-an-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
@@ -336,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0078-subsets) |
+| [1160-letter-tile-possibilities](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -420,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-word-subsets](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1160-letter-tile-possibilities](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -705,6 +708,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0229-majority-element-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1160-letter-tile-possibilities](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
