@@ -342,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -452,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2232-adding-spaces-to-a-string](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2580-circular-sentence](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -619,6 +621,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2227-sum-of-subarray-ranges](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
@@ -642,6 +645,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2032-largest-odd-number-in-string](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2089-maximum-matrix-sum](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
