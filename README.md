@@ -356,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0801-is-graph-bipartite](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -393,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0801-is-graph-bipartite](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -845,11 +847,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
