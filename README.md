@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0898-transpose-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0909-stone-game](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0952-word-subsets](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0952-word-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0967-minimum-falling-path-sum) |
@@ -488,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0670-maximum-swap](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0670-maximum-swap) |
+| [0909-stone-game](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0909-stone-game) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1844-maximum-number-of-balls-in-a-box) |
@@ -526,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0583-delete-operation-for-two-strings](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0909-stone-game](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1170-shortest-common-supersequence](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1170-shortest-common-supersequence) |
@@ -723,6 +726,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Game Theory
 |  |
 | ------- |
+| [0909-stone-game](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0909-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Counting
 |  |
