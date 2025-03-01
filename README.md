@@ -243,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2551-apply-operations-to-an-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -560,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
+| [2551-apply-operations-to-an-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2645-pass-the-pillow](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2645-pass-the-pillow) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -712,6 +714,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2551-apply-operations-to-an-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3195-separate-black-and-white-balls) |
