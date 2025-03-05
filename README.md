@@ -505,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2448-count-number-of-bad-pairs](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2645-pass-the-pillow](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2645-pass-the-pillow) |
+| [2649-count-total-number-of-colored-cells](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [3462-vowels-game-in-a-string](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
