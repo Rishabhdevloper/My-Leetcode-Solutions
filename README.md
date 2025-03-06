@@ -261,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2868-continuous-subarrays](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3227-find-missing-and-repeated-values](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -315,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2685-first-completely-painted-row-or-column](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -395,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2428-equal-row-and-column-pairs](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -507,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2645-pass-the-pillow](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2649-count-total-number-of-colored-cells) |
+| [3227-find-missing-and-repeated-values](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3462-vowels-game-in-a-string](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
