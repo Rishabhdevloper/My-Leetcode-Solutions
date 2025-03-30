@@ -306,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0229-majority-element-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0768-partition-labels](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0952-word-subsets) |
@@ -479,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [0768-partition-labels](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0878-shifting-letters](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0878-shifting-letters) |
 | [0886-score-of-parentheses](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0886-score-of-parentheses) |
 | [0952-word-subsets](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0952-word-subsets) |
@@ -719,6 +721,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0670-maximum-swap](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0670-maximum-swap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0768-partition-labels](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0876-hand-of-straights](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0890-lemonade-change) |
@@ -775,6 +778,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0768-partition-labels](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1972-rotating-the-box](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
