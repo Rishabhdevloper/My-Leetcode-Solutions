@@ -311,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0768-partition-labels](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0876-hand-of-straights) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0952-word-subsets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -406,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0801-is-graph-bipartite](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -455,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0801-is-graph-bipartite](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
@@ -965,6 +968,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -984,6 +988,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
