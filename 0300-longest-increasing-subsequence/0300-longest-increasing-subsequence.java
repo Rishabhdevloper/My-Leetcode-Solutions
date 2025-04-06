@@ -14,7 +14,7 @@ class Solution {
         int n=nums.length;
         int count=1;
         int prev_indx=-1;
-        int dp[][]=new int[n][n+1];
+        int dp[][]=new int[n][n];
         for(int rows[]:dp){
             Arrays.fill(rows,-1);
         }
