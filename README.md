@@ -1017,4 +1017,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
