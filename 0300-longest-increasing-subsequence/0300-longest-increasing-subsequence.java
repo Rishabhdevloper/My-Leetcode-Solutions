@@ -9,7 +9,7 @@ class Solution {
             return dp[indx][prev_indx+1]=len;
           }
 
-     
+     //YAHAN PE DO INDEX LAGEGI KYUNKI PREV_INDEX YEH BTAYEGA KI PICJLE WALE SE BADA HAIN KI NHII....
     public int lengthOfLIS(int[] nums) {
         int n=nums.length;
         int count=1;
