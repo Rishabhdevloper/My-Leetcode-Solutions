@@ -1,28 +1,15 @@
 class Solution {
     public int minOperations(int[] nums, int k) {
+       Arrays.sort(nums); 
+       int fake=0;
+       int op=0;
        int n=nums.length;
-        Arrays.sort(nums);
-        int cnt=0;
-        
-        for(int i=n-2;i>=0;i--){
-            if(nums[i]!=nums[i+1])cnt++;
-        }
-        if(k<nums[0]){
-            return cnt+1;
-        }
-        if(nums[n-1]==k&&cnt>0)return -1;
-        if(nums[0]==k&&cnt==0){
-            return 0;
-        }
-        if(nums[0]!=k){
-            return -1;
-        }
-        if(nums[0]==k&&cnt>0){
-            return cnt;
-        }
-        
-        
-        
-       return -1; 
+       for(int i=0;i<n-1;i++){
+        if(nums[i]<k)fake++;
+        if(nums[i]!=nums[i+1])op++;
+       }
+       if(fake>0||nums[0]<k)return -1;
+       if(nums[0]>k)op++;
+       return op;
     }
 }
