@@ -563,6 +563,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3805-maximize-active-section-with-trade-i](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3805-maximize-active-section-with-trade-i) |
 ## Math
 |  |
 | ------- |
@@ -944,6 +945,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2998-count-symmetric-integers](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2998-count-symmetric-integers) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3805-maximize-active-section-with-trade-i](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3805-maximize-active-section-with-trade-i) |
 ## Trie
 |  |
 | ------- |
