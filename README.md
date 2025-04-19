@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -435,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0200-number-of-islands) |
@@ -673,6 +675,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
