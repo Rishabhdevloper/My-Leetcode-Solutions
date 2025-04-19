@@ -306,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3643-zero-array-transformation-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3712-minimum-cost-to-make-arrays-identical) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -368,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -954,6 +956,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2998-count-symmetric-integers](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2998-count-symmetric-integers) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3805-maximize-active-section-with-trade-i) |
 ## Trie
 |  |
@@ -1058,4 +1061,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1258-article-views-i](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
+## Recursion
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
