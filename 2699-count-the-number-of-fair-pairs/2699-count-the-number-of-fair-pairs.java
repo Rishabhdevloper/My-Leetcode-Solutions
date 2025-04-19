@@ -36,8 +36,8 @@ class Solution {
       for(int i=0;i<n;i++){
           long indx1=lowerBound(nums,i+1,n,lower-nums[i]);
           long indx2=upperBound(nums,i+1,n,upper-nums[i]);
-          long x=indx1-i-1;
-          long y=indx2-i-1;
+          long x=indx1;
+          long y=indx2;
           result+=(y-x);
       }
        return result;
