@@ -1,45 +1,43 @@
 class Solution {
-     private int lowerBound(int[] nums, int start, int end, int target) {
-        while (start < end) {
-            int mid = start + (end - start) / 2;
-            if (nums[mid] < target) {
-                start = mid + 1;
-            } else {
-                end = mid;
+    public static int l(int nums[],int start,int end,int target){
+        int n=nums.length;
+        int ans=n;
+        while(start<=end){
+            int mid=(start+end)/2;
+            if(nums[mid]>=target){
+                ans=mid;
+                end=mid-1;
+            }
+            else{
+                start=mid+1;
             }
         }
-        return start;
+        return ans;
     }
-
-    // Java equivalent of upper_bound in C++
-    private int upperBound(int[] nums, int start, int end, int target) {
-        while (start < end) {
-            int mid = start + (end - start) / 2;
-            if (nums[mid] <= target) {
-                start = mid + 1;
-            } else {
-                end = mid;
+    public static int u(int nums[],int start,int end,int target){
+        int n=nums.length;
+        int ans=n;
+        while(start<=end){
+            int mid=(start+end)/2;
+            if(nums[mid]>target){
+                ans=mid;
+                end=mid-1;
+            }
+            else{
+                start=mid+1;
             }
         }
-        return start;
+        return ans;
     }
-
-
-
-
-
     public long countFairPairs(int[] nums, int lower, int upper) {
-       //pehle apan lowerbound nikalenge
-       Arrays.sort(nums);
-       int n=nums.length;
-       long result=0;
-      for(int i=0;i<n;i++){
-          long indx1=lowerBound(nums,i+1,n,lower-nums[i]);
-          long indx2=upperBound(nums,i+1,n,upper-nums[i]);
-          long x=indx1;
-          long y=indx2;
-          result+=(y-x);
-      }
-       return result;
+        int n=nums.length;
+        Arrays.sort(nums);
+        long cnt=0;
+        for(int i=0;i<n;i++){
+            int indx1=l(nums, i+1,n-1,lower-nums[i]);
+            int indx2=u(nums,i+1,n-1,upper-nums[i]);
+            cnt+=(indx2-indx1);
+        }
+        return cnt;
     }
 }
