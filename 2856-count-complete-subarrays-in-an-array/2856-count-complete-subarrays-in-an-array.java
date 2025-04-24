@@ -6,24 +6,33 @@ class Solution {
             set.add(nums[i]);
         }
         int ans=set.size(); 
+        int i=0;
         int j=0;
         int cnt=0;
-        int an=0;
-        for(int i=0;i<n;i++){
-              j=i;
-            cnt=0;
-            set.clear();
-             while(j<n){
-                set.add(nums[j]);
-                if(set.size()==ans)cnt++;
-                if(set.size()>ans)break;
-                j++;
+        HashMap<Integer,Integer>map=new HashMap<>();
+        while(j<n&&i<=j){
+              map.put(nums[j],map.getOrDefault(nums[j],0)+1);
+              if(map.size()==ans){
+                cnt+=(n-j);
+                while(i<=j&&map.size()==ans){
+                     int front=nums[i];
+                     if(map.get(front)==1){
+                        map.remove(front);
+                     }
+                     else{
+                        map.put(front,map.getOrDefault(front,0)-1);
+                     }
+                     i++;
+                     if(map.size()==ans)cnt+=(n-j);
+                     
+                     
 
-             }
-             
-             an+=cnt;
+                }
+              }
+                j++;
+              
         }
-     return an;
-       
+        
+       return cnt;
     }
 }
