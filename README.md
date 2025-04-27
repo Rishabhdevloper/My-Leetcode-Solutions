@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-word-subsets](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0952-word-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1002-maximum-width-ramp](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1002-maximum-width-ramp) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -335,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0952-word-subsets) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -723,6 +725,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0878-shifting-letters](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0878-shifting-letters) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1184-car-pooling](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1184-car-pooling) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
