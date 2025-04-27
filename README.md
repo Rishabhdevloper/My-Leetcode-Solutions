@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0518-coin-change-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -702,6 +703,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
