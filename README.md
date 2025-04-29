@@ -294,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2915-count-of-interesting-subarrays](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3221-find-the-peaks](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3221-find-the-peaks) |
 | [3227-find-missing-and-repeated-values](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -1001,6 +1002,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2998-count-symmetric-integers](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2998-count-symmetric-integers) |
+| [3221-find-the-peaks](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3221-find-the-peaks) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3805-maximize-active-section-with-trade-i) |
