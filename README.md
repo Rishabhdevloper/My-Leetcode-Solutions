@@ -324,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3738-make-array-non-decreasing](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3738-make-array-non-decreasing) |
 | [3797-design-spreadsheet](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -517,6 +518,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [1396-count-servers-that-communicate](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Graph
 |  |
 | ------- |
@@ -524,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
 | ------- |
@@ -738,6 +741,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3643-zero-array-transformation-ii) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Prefix Sum
 |  |
 | ------- |
