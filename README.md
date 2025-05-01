@@ -899,6 +899,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0725-split-linked-list-in-parts) |
 ## Brainteaser
 |  |
