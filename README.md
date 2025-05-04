@@ -914,6 +914,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
@@ -1148,6 +1149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [2050-count-good-numbers](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2050-count-good-numbers) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
