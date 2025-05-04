@@ -21,8 +21,9 @@ class Solution {
     public static ListNode reverse(ListNode head){
         ListNode prev = null;
         ListNode curr = head;
+        ListNode next=null;
         while (curr != null) {
-            ListNode next = curr.next;
+            next = curr.next;
             curr.next = prev; // fix: reverse link
             prev = curr;
             curr = next;
