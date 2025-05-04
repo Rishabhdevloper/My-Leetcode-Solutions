@@ -889,6 +889,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -915,6 +916,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
