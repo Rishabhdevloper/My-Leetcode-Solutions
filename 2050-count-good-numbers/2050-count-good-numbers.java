@@ -1,23 +1,19 @@
 class Solution {
-    int mod=(int)1e9+7;
-    public int countGoodNumbers(long n) {
-        long even=(n+1)/2;
-        long odd=n/2;
-        long a=pow(4,odd)%mod;
-        long b=pow(5,even)%mod;
-        return (int)((a*b)%mod);
+    static int M = 1000000007;
+
+    public static long f(long a, long b) {
+        if (b == 0) return 1;
+        long half = f(a, b / 2) % M;
+        long r = (half * half) % M;
+        if (b % 2 == 1) {
+            r = (r * a) % M;
+        }
+        return r;
     }
 
-    public long pow(long a,long b){
-        if(b==0){
-            return 1;
-        }
-        long temp=pow(a,b/2);
-        if(b%2==0){
-            return (temp*temp)%mod;
-        }
-        else{
-            return (a *temp*temp)%mod;
-        }
+    public int countGoodNumbers(long n) {
+        long x = f(5, (n + 1) / 2) % M;
+        long y = f(4, n / 2) % M;
+        return (int)((x * y) % M);
     }
 }
