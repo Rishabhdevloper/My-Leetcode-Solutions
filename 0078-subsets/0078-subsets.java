@@ -1,17 +1,24 @@
 class Solution {
+    public static void f(int indx,int n, List<List<Integer>>list, List<Integer>l,int nums[]){
+        if(indx>=n){
+           list.add(new ArrayList<>(l));
+          
+           return;
+        }
+        l.add(nums[indx]);
+        f(indx+1,n,list,l,nums);//take
+        l.remove(l.size()-1);
+        f(indx+1,n,list,l,nums);//not take
+
+
+    }
+
     public List<List<Integer>> subsets(int[] nums) {
         int n=nums.length;
-        int subsets=1<<n;
-        List<List<Integer>>ans=new ArrayList<>();
-        for(int i=0;i<subsets;i++){
-            ArrayList<Integer>list=new ArrayList<>();
-             for(int j=0;j<n;j++){
-                if ((i & (1 << j)) != 0){
-                    list.add(nums[j]);
-                }
-             }
-             ans.add(list);
-        }
-        return ans;
+        List<List<Integer>>list=new ArrayList<>();
+        List<Integer>l=new ArrayList<>();
+        int indx=0;
+        f(0,n,list,l,nums);
+        return list;
     }
 }
