@@ -19,7 +19,7 @@ class Solution {
     public List<List<Integer>> combinationSum3(int k, int n) {
         int candidates[]={1,2,3,4,5,6,7,8,9};
         List < List < Integer >> ans = new ArrayList < > ();
-        Arrays.sort(candidates);
+       
         findCombinations(0, candidates, n, ans,k, new ArrayList < > ());
         return ans;
 
