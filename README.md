@@ -414,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3732-calculate-score-after-performing-instructions](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3797-design-spreadsheet](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -642,6 +643,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3732-calculate-score-after-performing-instructions](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3797-design-spreadsheet](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3805-maximize-active-section-with-trade-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |
@@ -1002,6 +1004,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
