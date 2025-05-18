@@ -719,6 +719,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1250-longest-common-subsequence](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1527-number-of-ways-to-paint-n-3-grid](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1764-maximum-repeating-substring](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1764-maximum-repeating-substring) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/2061-painting-a-grid-with-three-different-colors) |
