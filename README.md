@@ -180,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0322-coin-change) |
@@ -498,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0289-game-of-life) |
 | [0898-transpose-matrix](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0898-transpose-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1036-rotting-oranges) |
@@ -744,6 +746,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0898-transpose-matrix](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/0898-transpose-matrix) |
 | [1184-car-pooling](https://github.com/Rishabhdevloper/My-Leetcode-Solutions/tree/master/1184-car-pooling) |
